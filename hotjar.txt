@@ -1,0 +1,211 @@
+<html>
+<head>
+    <style>
+      div.d{
+          text-align: center;
+        font-size: 15px;
+         background-color:#D2FFCF;
+       }
+    div.a {
+    text-align: center;
+      font-size: 30px;
+      }
+       div.e{
+          text-align: center;
+         font-size: 30px;
+          color: lightgrey;
+      }
+      a:link {
+  color: grey;
+  background-color: transparent;
+  text-decoration: none;
+}
+      a:visited {
+  color: grey;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: grey;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+      
+       .free a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+      .free a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+.free a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: ;
+}
+.free a:active {
+  color: red;
+  background-color: transparent;
+  text-decoration: ;
+}
+      .button {
+  border: #000000;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  text-decoration: #000000;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+      .button1 {border-radius: 40px;}
+      div.b {
+    text-align: center;
+      font-size: 12px;
+      }
+      .button2{
+         border-radius:10px;
+        margin: 0 ;
+        background-color: lightgrey;
+  border: 2px ;
+  padding: 10px; 
+  width: 1300px;
+  height: 300px;  
+  text-align:left ;
+        font-size: 20px;
+      }
+       #right{  
+        text-align:right;}
+      div.active{
+         text-align: left;
+         font-size: 20px;
+        color: grey;
+      }
+      div.product-tour-switcher-menu{
+        text-align: right;
+         font-size: 20px;
+        color: grey;
+      }
+      div.product-tour-section-label{
+         text-align: right;
+       font-size: 20px;
+       color: grey;
+      }
+      div.product-tour-menu-item active{
+         text-align: right;
+       font-size: 20px;
+        color: grey;
+        text-decoration: #000000;
+      }
+      product-tour-menu-title {
+       
+         text-align: right;
+          font-size: 20px;
+        color: grey;
+      }
+      div.product-tour-title{
+         text-align: right;
+          font-size: 20px;
+        color: black;
+      }
+      div.c{
+        text-align: right;
+       font-size: 20px;
+      }
+      
+    </style>
+    </head>
+      <body>
+        <form>
+           
+           <div class="d">
+             <pre> <hr style="width:100%;margin-right:0; text-decoration:green"></hr><p>&#10003; 35,167 companies signed up last month     &#10003; No credit card required      &#10003; GDPR- & CCPA-read</p><hr style="width:100%;margin-right:0; text-decoration:green;"> </pre> </hr>
+          </div>
+              <div class="a">
+           
+        <h1>Understand how users are <mark>really experiencing</mark></h1><h1>your site without drowning in numbers</h1>
+        <p>Traditional web analytics tools help you analyze traffic data. But numbers alone can’t tell you what users really do on your site — Hotjar will.</p>
+<button class="button button1">Sign up with email</button>
+        <div class="a">
+          <br>
+           <div class="b">    
+            No credit card required</p>
+          
+          <div class="product-tour-switcher-images"> 
+          <div class="active" data-item="1"> 
+                      <picture>
+                            <source srcset="https://static-cms.hotjar.com/original_images/prod-tour-heatmap_mobile.webp" type="image/webp" media="(max-width: 460px)">
+                            <source srcset="https://static-cms.hotjar.com/original_images/prod-tour-heatmap_mobile.png" type="image/png" media="(max-width: 460px)">
+                            <source srcset="https://static-cms.hotjar.com/original_images/prod-tour-heatmap_tablet.webp" type="image/webp" media="(max-width: 768px)">
+                            <source srcset="https://static-cms.hotjar.com/original_images/prod-tour-heatmap_tablet.png" type="image/png" media="(max-width: 768px)">
+                            <source srcset="https://static-cms.hotjar.com/original_images/prod-tour-heatmap.webp" type="image/webp" media="(min-width: 769px)">
+                            <source srcset="https://static-cms.hotjar.com/original_images/prod-tour-heatmap.png" type="image/png" media="(min-width: 769px)">
+                            <img src="https://static-cms.hotjar.com/original_images/prod-tour-heatmap.png" alt="product tour feature heatmap">
+                    </picture>
+                  </div> 
+           <div class="product-tour-switcher-menu"> 
+             
+                <h2 class="product-tour-title">Here's how it works</h2> 
+                <h3 class="product-tour-section-label">Behavior</h3> 
+                
+             
+                <div class="product-tour-menu-title"><a href="https://static-cms.hotjar.com/original_images/prod-tour-heatmap.png">
+                  Heatmaps</a>
+                
+            </div> 
+             <br>
+            <div class="product-tour-menu-item" data-item="2"> 
+              <div class="product-tour-menu-icon">
+                <span class="icon-prod-tour-icon-recordings"></span>
+            </div> 
+            <div class="product-tour-menu-title"><a href="https://static-cms.hotjar.com/original_images/prod-tour-recordings.png">
+              Recordings</a>
+            </div> 
+        </div> 
+        <h3 class="product-tour-section-label">Feedback</h3> 
+        <div class="product-tour-menu-item" data-item="3"> 
+          <div class="product-tour-menu-icon">
+            <span class="icon-prod-tour-icon-if"></span>
+        </div> 
+        <div class="product-tour-menu-title"><a href="https://static-cms.hotjar.com/original_images/prod-tour-inc-feedback.png">
+            Incoming Feedback
+          </a>
+          </div> 
+    </div> 
+             <br>
+    <div class="product-tour-menu-item" data-item="4"> 
+      <div class="product-tour-menu-icon">
+        <span class="icon-prod-tour-icon-polls"></span>
+    </div> 
+    <div class="product-tour-menu-title"><a href="https://static-cms.hotjar.com/original_images/prod-tour-polls.png">
+      Surveys</a>
+    </div>
+      <hr style="width:25%;text-align:right;margin-right:0">
+      <div class="free"><pre><p><a href="https://www.hotjar.com">
+  <b>Full product tour -></b>
+     Read what hotjar offers</p></a></div>
+        <div class="free"><pre><p><a href="https://www.hotjar.com">
+  <b>See it in action -></b>
+     Try our interactive demo</p></a></div>
+      <div class="e">Trusted by over 900,000 organizations across 180+ countries>
+        <br><br></div>
+        <source srcset="https://static-cms.hotjar.com/documents/social-proof-company-logos-mobile.svg" media="(max-width: 768px)">
+         <img src="https://static-cms.hotjar.com/documents/social-proof-company-logos-desktop.svg" alt="companies logos">
+      <br><br><br><br><br><br>
+      <button class="button button2"> <div id ="right"><img src="https://static-cms.hotjar.com/documents/brand-CCPA.svg"></div> <pre><h1>GDPR and CCPA</h1><p>Keeping end-user privacy at the center of what we do.</p></pre> <pre>    <div id ="right"><img src="https://static-cms.hotjar.com/documents/brand-CCPA.svg"></div>
+      </button>                   
+       
+                </body>
+             </html>
+            </div>
+      </div>
+        
